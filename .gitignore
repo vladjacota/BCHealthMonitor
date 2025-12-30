@@ -93,3 +93,6 @@ appsettings.Production.json
 
 # OS files
 .DS_Store
+
+# Environment-specific test scripts
+scripts/test-*.ps1
