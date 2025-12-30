@@ -94,5 +94,14 @@ appsettings.Production.json
 # OS files
 .DS_Store
 
-# Environment-specific test scripts
+# Environment-specific and debug scripts
 scripts/test-*.ps1
+scripts/diagnose-*.ps1
+scripts/debug-*.ps1
+scripts/deploy-*.ps1
+scripts/find-*.ps1
+scripts/check-*.ps1
+scripts/quick-*.ps1
+scripts/update-service.ps1
+scripts/enable-debug-logging.ps1
+scripts/grant-sql-permissions.sql
